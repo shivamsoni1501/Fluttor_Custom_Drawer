@@ -2,6 +2,4 @@
 
 A custom Drawer with 3D effect.
 
-<p>
-  <imag src="/assets/p1.jpg" height=200>
-</p>
+[![<img src="/assets/p1.jpg" width="50%">](https://www.youtube.com/watch?v=1SPl4nh9jZo)
