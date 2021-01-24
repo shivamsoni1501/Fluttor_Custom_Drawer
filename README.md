@@ -2,4 +2,6 @@
 
 A custom Drawer with 3D effect.
 
-[![sample Video](https://github.com/shivamsoni1501/Fluttor_Animation_1/blob/master/assets/p1.jpg| height=200)](https://www.youtube.com/watch?v=1SPl4nh9jZo)
+<p>
+  <imag src="/assets/p1.jpg" height=200>
+</p>
